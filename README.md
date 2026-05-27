@@ -17,6 +17,10 @@ python3 -m venv .venv
 
 ## Useful URLs
 
+- Deployed backend base URL: https://adm-task-backend.onrender.com
+- Deployed Swagger UI: https://adm-task-backend.onrender.com/api/docs
+- Deployed OpenAPI JSON: https://adm-task-backend.onrender.com/api/openapi.json
+
 - Health check: http://localhost:8000/health
 - Swagger UI (interactive API testing): http://localhost:8000/api/docs
 - ReDoc: http://localhost:8000/api/redoc
